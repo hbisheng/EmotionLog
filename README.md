@@ -6,9 +6,9 @@ EmotionLog is part of EmotionLog Suite. For more background information, see [Ps
 
 ### Functions
 - Questionnaire module
-	1. Join certain experiments by entering the invitation code (provided by the experimenter)
+	1. Join certain experiments by entering the invitation code (provided by the experimenter).
 	2. Deliver notifications to the user at the time when the questionnaire should be answered. 
-	3. Submit the questionnaire answers to the server.   
+	3. Submit the questionnaire answers to the server.
 - Wristband module
 	1. Connect to a customized wristband, download the biological data(heart rate, motion e.g.) of the user, and upload the data to the server.
 	2. Configure the wristband.
