@@ -41,6 +41,7 @@ EmotionLog is part of EmotionLog Suite. For more background information, see [Ps
 
 ## Wristband, realtime mode
 <img src="Screenshots/8_realtime.png" alt="" width="30%"/>
+<img src="Screenshots/realtime.gif" alt="" width="30%"/>
 #### Once connected to the wristband, EmotionLog is able to get the wristband data in realtime and draw dynamic plots to demonstrate it. 
 
 # Copyright
